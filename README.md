@@ -1,17 +1,18 @@
 # svelte-loading-spinners
 
 > collection of loading spinners with Svelte.js
+> Code owner: schum123
 
 ## Installation
 
 ```bash
-npm i --save-dev svelte-loading-spinners
+npm i --save-dev svelte-loading-spinners-liddell
 ```
 
 or
 
 ```bash
-yarn add -D svelte-loading-spinners
+yarn add -D svelte-loading-spinners-liddell
 ```
 
 ## Usage
